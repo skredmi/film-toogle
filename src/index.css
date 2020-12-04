@@ -1,0 +1,9 @@
+@import url('./vendor/normalize.css');
+@import url('./blocks/main/main.css');
+@import url('./blocks/switch-btn/switch-btn.css');
+@import url('./blocks/title/title.css');
+@import url('./blocks/card/card.css');
+@import url('./blocks/card/__lists/card__lists.css');
+@import url('./blocks/card/__list/card__list.css');
+@import url('./blocks/card/__item/card__item.css');
+@import url('./blocks/card/__title/card__title.css');

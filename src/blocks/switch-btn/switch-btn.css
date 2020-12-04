@@ -1,0 +1,56 @@
+.switch-btn {
+    align-self: flex-end;
+    display: inline-block;
+    width: 38px; /* ширина */
+    height: 20px; /* высота */
+    border-radius: 19px; /* радиус скругления */
+    background: #e5e5e5; /* цвет фона */
+    z-index: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    transition-duration: 300ms; /* анимация */
+}
+.switch-btn::after {
+    content: "";
+    height: 15px; /* высота кнопки */
+    width: 15px; /* ширина кнопки */
+    border-radius: 17px;
+    background: #fff; /* цвет кнопки */
+    top: 3px; /* положение кнопки по вертикали относительно основы */
+    left: 3px; /* положение кнопки по горизонтали относительно основы */
+    transition-duration: 300ms; /* анимация */
+    position: absolute;
+    z-index: 1;
+}
+.switch-on {
+    align-self: flex-end;
+    display: inline-block;
+    width: 38px; /* ширина */
+    height: 20px; /* высота */
+    border-radius: 19px; /* радиус скругления */
+    z-index: 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    transition-duration: 300ms; /* анимация */
+    background: #1e1f1f;
+}
+.switch-on::after {
+    left: 20px;
+    content: "";
+    height: 15px; /* высота кнопки */
+    width: 15px; /* ширина кнопки */
+    border-radius: 17px;
+    background: rgb(77, 77, 77); /* цвет кнопки */
+    top: 3px; /* положение кнопки по вертикали относительно основы */
+    transition-duration: 300ms; /* анимация */
+    position: absolute;
+    z-index: 1;
+}

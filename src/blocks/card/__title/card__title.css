@@ -1,0 +1,23 @@
+.card__title-1 {
+    color: #606307;
+    font-size: 20px;
+    min-height: 10px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align: center;
+    text-shadow: 1px 1px 2px #e6ee0c;
+    margin: 0;
+    padding: 0;
+}
+
+.card__title-2 {
+    color: #000000;
+    font-size: 20px;
+    min-height: 10px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align: center;
+    text-shadow: 1px 1px 2px #981212;
+    margin: 0;
+    padding: 0;
+}
