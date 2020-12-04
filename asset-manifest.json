@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/film-toogle/static/css/main.bbdb1862.chunk.css",
+    "main.js": "/film-toogle/static/js/main.1f4245f5.chunk.js",
+    "main.js.map": "/film-toogle/static/js/main.1f4245f5.chunk.js.map",
+    "runtime-main.js": "/film-toogle/static/js/runtime-main.eb04ac6a.js",
+    "runtime-main.js.map": "/film-toogle/static/js/runtime-main.eb04ac6a.js.map",
+    "static/js/2.9f6e2462.chunk.js": "/film-toogle/static/js/2.9f6e2462.chunk.js",
+    "static/js/2.9f6e2462.chunk.js.map": "/film-toogle/static/js/2.9f6e2462.chunk.js.map",
+    "index.html": "/film-toogle/index.html",
+    "precache-manifest.9b262657d20ffd2768aeac9f4ae53818.js": "/film-toogle/precache-manifest.9b262657d20ffd2768aeac9f4ae53818.js",
+    "service-worker.js": "/film-toogle/service-worker.js",
+    "static/css/main.bbdb1862.chunk.css.map": "/film-toogle/static/css/main.bbdb1862.chunk.css.map",
+    "static/js/2.9f6e2462.chunk.js.LICENSE.txt": "/film-toogle/static/js/2.9f6e2462.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/film-toogle/static/media/1.74f9ac55.png",
+    "static/media/10.png": "/film-toogle/static/media/10.68679bb7.png",
+    "static/media/11.png": "/film-toogle/static/media/11.3dc18dbe.png",
+    "static/media/12.png": "/film-toogle/static/media/12.ce95f8f8.png",
+    "static/media/13.png": "/film-toogle/static/media/13.7ac6ac8d.png",
+    "static/media/14.png": "/film-toogle/static/media/14.fc887cca.png",
+    "static/media/2.png": "/film-toogle/static/media/2.56470687.png",
+    "static/media/3.png": "/film-toogle/static/media/3.afb52d41.png",
+    "static/media/4.png": "/film-toogle/static/media/4.ddf0de71.png",
+    "static/media/5.png": "/film-toogle/static/media/5.537d94c4.png",
+    "static/media/6.png": "/film-toogle/static/media/6.7a74bbc0.png",
+    "static/media/7.png": "/film-toogle/static/media/7.a84d4a1a.png",
+    "static/media/8.png": "/film-toogle/static/media/8.b7bf4e65.png",
+    "static/media/9.png": "/film-toogle/static/media/9.bbc22d75.png",
+    "static/media/index.css": "/film-toogle/static/media/main2.5bf2acb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb04ac6a.js",
+    "static/js/2.9f6e2462.chunk.js",
+    "static/css/main.bbdb1862.chunk.css",
+    "static/js/main.1f4245f5.chunk.js"
+  ]
+}
